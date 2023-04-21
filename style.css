@@ -1,0 +1,18 @@
+#arabe{
+    margin:10px;
+    width: 50px;
+}
+
+#français{
+    margin:10px;
+    width: 50px;
+}
+#carouselExampleIndicators{
+    width: 70%;
+}
+.Gphotos{
+    display: flex;
+    justify-content: center;
+    
+}
+
